@@ -2,7 +2,7 @@
  * Created by Jakub Petrík on 28/02/2017.
  */
 public class main {
-    String name;
+    Double name;
     int age;
 
     public static void main(String[] args) {
