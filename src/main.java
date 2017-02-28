@@ -6,7 +6,7 @@ public class main {
     int age;
 
     public static void main(String[] args) {
-
+	System.out.println("Jakub scrub");
     }
 
     public int getAge() {
